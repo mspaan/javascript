@@ -61,7 +61,7 @@ Belangrijk is dat je *syntax highlighting* hebt, daarmee zie je door de verschil
 #### :white_check_mark: **TO DO:** Download een text editor.
 Open een nieuwe *file* en noem het basis.js    
 
- :arrow_right: naar [JavaScript - 2. De basis](https://github.com/mspaan/javascript/blob/master/Javascript%20-%202.%20De%20basis.md)
+ :arrow_right: naar [JavaScript - 2. Basis](https://github.com/mspaan/javascript/blob/master/Javascript_2_Basis.md)
  
 -----
 
