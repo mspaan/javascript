@@ -66,12 +66,15 @@ Belangrijk is dat je *syntax highlighting* hebt, daarmee zie je door de verschil
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 
-####<i class="icon-pencil"></i> **TO DO:** Download een text editor    
-
-<i class="icon-upload"></i> Update a publication
-<i class="icon-link"></i> Link
-<i class="icon-left"></i> Volgende pagina
-<i class="icon-list"></i> Volgende pagina
+#### :white_check_mark: **TO DO:** Download een text editor    
+ :checkered_flag:
+ :pencil2:
+  :memo:
+ :arrow_right: Volgende pagina
+  :open_file_folder:
+   :page_facing_up:
+    :inbox_tray:
+     :calendar:
 
 ```javascript
 // Opmerkingen/comments
