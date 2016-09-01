@@ -2,7 +2,6 @@
 ---
 ##1. Javascript - Introductie 
 ####Waar heb je weleens van gehoord?
-
 - html5
 - css3
 - bootstrap
