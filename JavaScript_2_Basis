@@ -1,6 +1,10 @@
 
 ##2. Javascript - De basis
-####Variabele
+####Drie manieren om Javascript te laten zien
+1. In een html document met script
+2. In een aparte file (bestandsnaam.**js**)
+
+####Variabele 
 
 Om code te schrijven gebruik je de regels van de JavaScript taal, dat heet de **syntax**. 
 
