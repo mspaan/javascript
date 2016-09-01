@@ -61,6 +61,11 @@ Belangrijk is dat je *syntax highlighting* hebt, daarmee zie je door de verschil
   :smile:
 
 ![](https://ixquick-proxy.com/do/spg/show_picture.pl?l=english&rais=1&oiu=http://gunnariauvinen.com/content/images/2015/04/01_basic_javascript_syntax_highlighting-1.png&sp=1a0c0b009c0e30b60bd87a2be2815c71)
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
 ####<i class="icon-pencil"></i> **TO DO:** Download een text editor    
 
 <i class="icon-upload"></i> Update a publication
