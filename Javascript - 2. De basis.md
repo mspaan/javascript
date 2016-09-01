@@ -1,8 +1,8 @@
 
 ##2. Javascript - De basis
-####Waar heb je weleens van gehoord?
+####Variabele
 
-syntaxis. Elke regel met code moet voldoen aan vaste taalregels
+Om code te schrijven gebruik je de regels van de JavaScript taal, dat heet de **syntax**. 
 
 
 ```javascript
@@ -23,3 +23,9 @@ Use the `printf()` function.
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+
+####Debuggers
+
+In browsers zijn debuggers ingebouwd. Debuggers zijn programma’s die helpen om fouten in het script op te sporen.
+
+Wanneer een fout script ingelezen wordt in Internet Explorer, verschijnt een venster met een waarschuwing. Wanneer je bevestigt dat je de fout wilt opsporen, wordt de debugger gestart.
